@@ -1,4 +1,4 @@
-baseURL = "https://myjobsherpa.netlify.com"
+baseURL = "https://myjobsherpa.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
