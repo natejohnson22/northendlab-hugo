@@ -1,7 +1,11 @@
 +++
-title = "Mark Dinn"
-image = "/images/author/mark-dinn.jpg"
-description = "This is meta description"
-+++
+description = "Head Sherpa"
+image = "/images/1a5a7352.jpg"
+title = "Nate Johnson"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++++
+Hello! I'm Nate. I started MyJobSherpa as a resource to help people learn more about different career paths and the steps that it will take to get there.
+
+My goal is simple: I want to help you find and obtain your dream job!
+
+Let's get started on this exciting and sometimes scary journey.
